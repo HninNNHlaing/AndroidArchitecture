@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AndroidArchitecture</string>
+    <string name="some_error">Some Error Occured</string>
+    <string name="dia_newtwork_des">Turn on the internet connectivity</string>
+</resources>
